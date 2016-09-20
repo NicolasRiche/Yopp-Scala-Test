@@ -1,0 +1,70 @@
+*.class
+
+*.log
+
+.history
+
+# OSX
+
+.DS_Store
+
+
+
+# IDEA
+
+.idea
+
+.idea_modules
+
+*.iml
+
+
+
+# ECLIPSE
+
+.classpath
+
+.project
+
+.settings
+
+.cache
+
+.target
+
+
+
+# sbt specific
+
+
+dist/*
+
+target/
+
+lib_managed/
+
+src_managed/
+
+project/boot/
+
+project/project/
+project/target/
+
+
+
+# Scala-IDE specific
+
+.scala_dependencies
+
+dt_snapshots/
+*.directory
+
+#play app
+RUNNING_PID
+
+# vagrant
+.vagrant
+for_deploy
+
+#deploy
+boto.cfg
