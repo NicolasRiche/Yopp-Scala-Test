@@ -1,3 +1,5 @@
+package yopptest.tests
+
 import org.scalatest._
 import yopptest.BundlePricingDomain._
 

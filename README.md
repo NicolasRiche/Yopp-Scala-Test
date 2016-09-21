@@ -12,7 +12,7 @@ pricingService.bundleToLowestPrice(...)
 
 - Cart object and other domain objects are in yopptest.BundlePricingDomain
 
-Usage example in tests: src/test/scala/BundlePricingServiceTest
+Usage examples in tests: src/test/scala/BundlePricingServiceTest
 
 ## Running tests
 ```
